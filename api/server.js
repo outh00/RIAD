@@ -37,6 +37,10 @@ app.use((err, req, res, next) => {
   res.status(500).json({ error: 'Erreur serveur interne' })
 })
 
-app.listen(PORT, () => {
-  console.log(`M2T API running on http://localhost:${PORT}`)
-})
+if (!process.env.VERCEL) {
+  app.listen(PORT, () => {
+    console.log(`M2T API running on http://localhost:${PORT}`)
+  })
+}
+
+module.exports = app
