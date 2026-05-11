@@ -1,0 +1,1883 @@
+{
+  "agents": [
+    {
+      "id": "es_001",
+      "name": "Youssef Bennani",
+      "city": "Casablanca",
+      "phone": "+212600112233",
+      "avatar": null,
+      "balance": 1310.5,
+      "dailyObjectiveMAD": 1000,
+      "dailyObjective": 10,
+      "dailyProgress": 9,
+      "totalTransactions": 147,
+      "totalClients": 89,
+      "weeklyGrowth": 12,
+      "clientGrowth": 8,
+      "unlockedServices": [
+        "recharge",
+        "facture_eau",
+        "facture_elec",
+        "transfert",
+        "chaabi_pay",
+        "service_rcurrent"
+      ],
+      "academyProgress": {
+        "module_001": {
+          "watched": true,
+          "watchedAt": "2026-05-01T10:00:00Z",
+          "qcmPassed": true,
+          "score": 80,
+          "passedAt": "2026-05-01T10:30:00Z"
+        },
+        "module_002": {
+          "watched": true,
+          "watchedAt": "2026-05-02T09:00:00Z",
+          "qcmPassed": true,
+          "score": 90,
+          "passedAt": "2026-05-02T09:45:00Z"
+        },
+        "module_003": {
+          "watched": true,
+          "watchedAt": "2026-05-05T11:13:11.751Z",
+          "qcmPassed": true,
+          "score": 100,
+          "passedAt": "2026-05-05T11:13:11.875Z"
+        },
+        "module_004": {
+          "watched": true,
+          "watchedAt": "2026-05-05T11:43:44.876Z",
+          "qcmPassed": true,
+          "score": 80,
+          "passedAt": "2026-05-05T11:44:14.055Z"
+        },
+        "module_95649638": {
+          "watched": true,
+          "watchedAt": "2026-05-05T21:35:31.979Z",
+          "score": 100,
+          "qcmPassed": true,
+          "passedAt": "2026-05-05T21:35:44.712Z"
+        },
+        "module_005": {
+          "watched": true,
+          "watchedAt": "2026-05-06T09:17:59.720Z",
+          "score": 80,
+          "qcmPassed": true,
+          "passedAt": "2026-05-06T09:23:30.291Z"
+        }
+      }
+    },
+    {
+      "id": "es_002",
+      "name": "Fatima Zahra Idrissi",
+      "city": "Rabat",
+      "phone": "+212600445566",
+      "avatar": null,
+      "balance": 875,
+      "dailyObjectiveMAD": 800,
+      "dailyObjective": 10,
+      "dailyProgress": 4,
+      "totalTransactions": 98,
+      "totalClients": 60,
+      "weeklyGrowth": 5,
+      "clientGrowth": 3,
+      "unlockedServices": [
+        "recharge",
+        "facture_eau",
+        "facture_elec",
+        "transfert",
+        "chaabi_pay"
+      ],
+      "academyProgress": {
+        "module_001": {
+          "watched": true,
+          "watchedAt": "2026-05-03T11:00:00Z",
+          "qcmPassed": true,
+          "score": 75,
+          "passedAt": "2026-05-03T11:30:00Z"
+        },
+        "module_002": {
+          "watched": true,
+          "watchedAt": "2026-05-03T12:00:00Z",
+          "qcmPassed": true,
+          "score": 80,
+          "passedAt": "2026-05-03T12:30:00Z"
+        },
+        "module_003": {
+          "watched": true,
+          "watchedAt": "2026-05-03T13:00:00Z",
+          "qcmPassed": true,
+          "score": 75,
+          "passedAt": "2026-05-03T13:30:00Z"
+        },
+        "module_004": {
+          "watched": true,
+          "watchedAt": "2026-05-03T14:00:00Z",
+          "qcmPassed": true,
+          "score": 80,
+          "passedAt": "2026-05-03T14:30:00Z"
+        },
+        "module_005": {
+          "watched": true,
+          "watchedAt": "2026-05-03T15:00:00Z",
+          "qcmPassed": true,
+          "score": 80,
+          "passedAt": "2026-05-03T15:30:00Z"
+        }
+      }
+    },
+    {
+      "id": "es_003",
+      "name": "Khalid Mansouri",
+      "city": "Marrakech",
+      "phone": "+212600778899",
+      "avatar": null,
+      "balance": 320.75,
+      "dailyObjectiveMAD": 600,
+      "dailyObjective": 10,
+      "dailyProgress": 2,
+      "totalTransactions": 42,
+      "totalClients": 31,
+      "weeklyGrowth": -3,
+      "clientGrowth": 1,
+      "unlockedServices": [
+        "recharge",
+        "facture_eau",
+        "facture_elec"
+      ],
+      "academyProgress": {
+        "module_001": {
+          "watched": true,
+          "watchedAt": "2026-04-20T10:00:00Z",
+          "qcmPassed": true,
+          "score": 70,
+          "passedAt": "2026-04-20T10:30:00Z"
+        },
+        "module_002": {
+          "watched": true,
+          "watchedAt": "2026-04-21T10:00:00Z",
+          "qcmPassed": true,
+          "score": 70,
+          "passedAt": "2026-04-21T10:30:00Z"
+        },
+        "module_003": {
+          "watched": true,
+          "watchedAt": "2026-04-22T10:00:00Z",
+          "qcmPassed": true,
+          "score": 75,
+          "passedAt": "2026-04-22T10:30:00Z"
+        }
+      }
+    },
+    {
+      "id": "es_004",
+      "name": "Samia El Amrani",
+      "city": "Casablanca",
+      "phone": "+212600221144",
+      "avatar": null,
+      "balance": 1875.5,
+      "dailyObjectiveMAD": 1200,
+      "dailyObjective": 12,
+      "dailyProgress": 8,
+      "totalTransactions": 203,
+      "totalClients": 120,
+      "weeklyGrowth": 18,
+      "clientGrowth": 15,
+      "unlockedServices": [
+        "recharge",
+        "facture_eau",
+        "facture_elec",
+        "transfert",
+        "chaabi_pay"
+      ],
+      "academyProgress": {
+        "module_001": {
+          "watched": true,
+          "watchedAt": "2026-04-01T10:00:00Z",
+          "qcmPassed": true,
+          "score": 90,
+          "passedAt": "2026-04-01T10:30:00Z"
+        },
+        "module_002": {
+          "watched": true,
+          "watchedAt": "2026-04-02T10:00:00Z",
+          "qcmPassed": true,
+          "score": 85,
+          "passedAt": "2026-04-02T10:30:00Z"
+        },
+        "module_003": {
+          "watched": true,
+          "watchedAt": "2026-04-03T10:00:00Z",
+          "qcmPassed": true,
+          "score": 90,
+          "passedAt": "2026-04-03T10:30:00Z"
+        },
+        "module_004": {
+          "watched": true,
+          "watchedAt": "2026-04-04T10:00:00Z",
+          "qcmPassed": true,
+          "score": 80,
+          "passedAt": "2026-04-04T10:30:00Z"
+        },
+        "module_005": {
+          "watched": true,
+          "watchedAt": "2026-04-05T10:00:00Z",
+          "qcmPassed": true,
+          "score": 85,
+          "passedAt": "2026-04-05T10:30:00Z"
+        }
+      }
+    },
+    {
+      "id": "es_005",
+      "name": "Anas Benkirane",
+      "city": "Casablanca",
+      "phone": "+212600334455",
+      "avatar": null,
+      "balance": 940.25,
+      "dailyObjectiveMAD": 900,
+      "dailyObjective": 9,
+      "dailyProgress": 5,
+      "totalTransactions": 118,
+      "totalClients": 74,
+      "weeklyGrowth": 7,
+      "clientGrowth": 4,
+      "unlockedServices": [
+        "recharge",
+        "facture_eau",
+        "facture_elec",
+        "transfert",
+        "chaabi_pay"
+      ],
+      "academyProgress": {
+        "module_001": {
+          "watched": true,
+          "watchedAt": "2026-04-10T10:00:00Z",
+          "qcmPassed": true,
+          "score": 80,
+          "passedAt": "2026-04-10T10:30:00Z"
+        },
+        "module_002": {
+          "watched": true,
+          "watchedAt": "2026-04-11T10:00:00Z",
+          "qcmPassed": true,
+          "score": 75,
+          "passedAt": "2026-04-11T10:30:00Z"
+        },
+        "module_003": {
+          "watched": true,
+          "watchedAt": "2026-04-12T10:00:00Z",
+          "qcmPassed": true,
+          "score": 80,
+          "passedAt": "2026-04-12T10:30:00Z"
+        },
+        "module_004": {
+          "watched": true,
+          "watchedAt": "2026-04-13T10:00:00Z",
+          "qcmPassed": true,
+          "score": 75,
+          "passedAt": "2026-04-13T10:30:00Z"
+        },
+        "module_005": {
+          "watched": true,
+          "watchedAt": "2026-04-14T10:00:00Z",
+          "qcmPassed": true,
+          "score": 80,
+          "passedAt": "2026-04-14T10:30:00Z"
+        }
+      }
+    },
+    {
+      "id": "es_006",
+      "name": "Houda Tazi",
+      "city": "Rabat",
+      "phone": "+212600556677",
+      "avatar": null,
+      "balance": 620,
+      "dailyObjectiveMAD": 700,
+      "dailyObjective": 8,
+      "dailyProgress": 3,
+      "totalTransactions": 76,
+      "totalClients": 48,
+      "weeklyGrowth": 3,
+      "clientGrowth": 2,
+      "unlockedServices": [
+        "recharge",
+        "facture_eau",
+        "facture_elec",
+        "transfert",
+        "chaabi_pay"
+      ],
+      "academyProgress": {
+        "module_001": {
+          "watched": true,
+          "watchedAt": "2026-04-15T10:00:00Z",
+          "qcmPassed": true,
+          "score": 75,
+          "passedAt": "2026-04-15T10:30:00Z"
+        },
+        "module_002": {
+          "watched": true,
+          "watchedAt": "2026-04-16T10:00:00Z",
+          "qcmPassed": true,
+          "score": 80,
+          "passedAt": "2026-04-16T10:30:00Z"
+        },
+        "module_003": {
+          "watched": true,
+          "watchedAt": "2026-04-17T10:00:00Z",
+          "qcmPassed": true,
+          "score": 75,
+          "passedAt": "2026-04-17T10:30:00Z"
+        },
+        "module_004": {
+          "watched": true,
+          "watchedAt": "2026-04-18T10:00:00Z",
+          "qcmPassed": true,
+          "score": 70,
+          "passedAt": "2026-04-18T10:30:00Z"
+        },
+        "module_005": {
+          "watched": true,
+          "watchedAt": "2026-04-19T10:00:00Z",
+          "qcmPassed": true,
+          "score": 75,
+          "passedAt": "2026-04-19T10:30:00Z"
+        }
+      }
+    }
+  ],
+  "transactions": [
+    {
+      "id": "txn_001",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Karim Alaoui",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-05-05T10:30:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_002",
+      "agentId": "es_001",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Samira Benali",
+      "amount": 450,
+      "commission": 9,
+      "date": "2026-05-05T09:15:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_003",
+      "agentId": "es_002",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Hassan El Fassi",
+      "amount": 50,
+      "commission": 1.25,
+      "date": "2026-05-05T08:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_9d151b8c",
+      "agentId": "es_001",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "sdq",
+      "amount": 1500,
+      "commission": 30,
+      "date": "2026-05-05T12:05:37.978Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_02b81b20",
+      "agentId": "es_001",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "SDSD",
+      "amount": 1500,
+      "commission": 30,
+      "date": "2026-05-06T09:22:26.436Z",
+      "status": "completed",
+      "meta": {
+        "subService": "srm_tta",
+        "subServiceName": "SRM TTA",
+        "abonne": "12233336"
+      }
+    },
+    {
+      "id": "txn_c01",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Mohamed Alaoui",
+      "amount": 150,
+      "commission": 3.75,
+      "date": "2026-04-15T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c02",
+      "agentId": "es_001",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Mohamed Alaoui",
+      "amount": 380,
+      "commission": 7.6,
+      "date": "2026-04-22T10:30:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c03",
+      "agentId": "es_004",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Mohamed Alaoui",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-05-01T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c04",
+      "agentId": "es_001",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Fatima Benali",
+      "amount": 220,
+      "commission": 4.4,
+      "date": "2026-04-10T08:30:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c05",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Fatima Benali",
+      "amount": 50,
+      "commission": 1.25,
+      "date": "2026-04-18T14:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c06",
+      "agentId": "es_004",
+      "serviceId": "chaabi_pay",
+      "serviceName": "Ouverture Compte Chaabi Pay",
+      "client": "Fatima Benali",
+      "amount": 500,
+      "commission": 15,
+      "date": "2026-04-25T16:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c07",
+      "agentId": "es_005",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Karim El Fassi",
+      "amount": 450,
+      "commission": 9,
+      "date": "2026-04-12T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c08",
+      "agentId": "es_001",
+      "serviceId": "transfert",
+      "serviceName": "Transfert d'Argent",
+      "client": "Karim El Fassi",
+      "amount": 2000,
+      "commission": 30,
+      "date": "2026-04-28T15:30:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c09",
+      "agentId": "es_004",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Sara Tazi",
+      "amount": 200,
+      "commission": 5,
+      "date": "2026-04-14T09:30:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c10",
+      "agentId": "es_005",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Sara Tazi",
+      "amount": 180,
+      "commission": 3.6,
+      "date": "2026-04-28T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c11",
+      "agentId": "es_001",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Hassan Kettani",
+      "amount": 520,
+      "commission": 10.4,
+      "date": "2026-04-08T08:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c12",
+      "agentId": "es_004",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Hassan Kettani",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-04-20T12:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c13",
+      "agentId": "es_005",
+      "serviceId": "chaabi_pay",
+      "serviceName": "Ouverture Compte Chaabi Pay",
+      "client": "Hassan Kettani",
+      "amount": 300,
+      "commission": 9,
+      "date": "2026-04-30T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c14",
+      "agentId": "es_001",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Leila Chraibi",
+      "amount": 150,
+      "commission": 3,
+      "date": "2026-04-11T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c15",
+      "agentId": "es_004",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Leila Chraibi",
+      "amount": 290,
+      "commission": 5.8,
+      "date": "2026-04-24T14:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c16",
+      "agentId": "es_001",
+      "serviceId": "transfert",
+      "serviceName": "Transfert d'Argent",
+      "client": "Ahmed Lahlou",
+      "amount": 1500,
+      "commission": 22.5,
+      "date": "2026-04-16T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c17",
+      "agentId": "es_005",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Ahmed Lahlou",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-04-22T15:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c18",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Zineb Berrada",
+      "amount": 50,
+      "commission": 1.25,
+      "date": "2026-04-13T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c19",
+      "agentId": "es_004",
+      "serviceId": "chaabi_pay",
+      "serviceName": "Ouverture Compte Chaabi Pay",
+      "client": "Zineb Berrada",
+      "amount": 200,
+      "commission": 6,
+      "date": "2026-04-27T16:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c20",
+      "agentId": "es_005",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Omar El Idrissi",
+      "amount": 340,
+      "commission": 6.8,
+      "date": "2026-04-09T08:30:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c21",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Omar El Idrissi",
+      "amount": 150,
+      "commission": 3.75,
+      "date": "2026-04-19T13:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c22",
+      "agentId": "es_004",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Nadia Hajji",
+      "amount": 260,
+      "commission": 5.2,
+      "date": "2026-04-17T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c23",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Nadia Hajji",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-04-25T14:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c24",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Youssef Moussaoui",
+      "amount": 200,
+      "commission": 5,
+      "date": "2026-04-10T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c25",
+      "agentId": "es_004",
+      "serviceId": "transfert",
+      "serviceName": "Transfert d'Argent",
+      "client": "Youssef Moussaoui",
+      "amount": 3000,
+      "commission": 45,
+      "date": "2026-04-26T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c26",
+      "agentId": "es_004",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Meryem Rifi",
+      "amount": 410,
+      "commission": 8.2,
+      "date": "2026-04-14T08:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c27",
+      "agentId": "es_001",
+      "serviceId": "chaabi_pay",
+      "serviceName": "Ouverture Compte Chaabi Pay",
+      "client": "Meryem Rifi",
+      "amount": 400,
+      "commission": 12,
+      "date": "2026-04-29T15:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c28",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Amine Slimani",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-04-07T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c29",
+      "agentId": "es_005",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Amine Slimani",
+      "amount": 190,
+      "commission": 3.8,
+      "date": "2026-04-18T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c30",
+      "agentId": "es_004",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Amine Slimani",
+      "amount": 330,
+      "commission": 6.6,
+      "date": "2026-05-02T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c31",
+      "agentId": "es_001",
+      "serviceId": "transfert",
+      "serviceName": "Transfert d'Argent",
+      "client": "Reda Tahiri",
+      "amount": 2500,
+      "commission": 37.5,
+      "date": "2026-04-15T14:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c32",
+      "agentId": "es_005",
+      "serviceId": "chaabi_pay",
+      "serviceName": "Ouverture Compte Chaabi Pay",
+      "client": "Reda Tahiri",
+      "amount": 500,
+      "commission": 15,
+      "date": "2026-04-28T16:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c33",
+      "agentId": "es_001",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Ilyas Ziani",
+      "amount": 460,
+      "commission": 9.2,
+      "date": "2026-04-11T08:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c34",
+      "agentId": "es_005",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Ilyas Ziani",
+      "amount": 150,
+      "commission": 3.75,
+      "date": "2026-04-24T13:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c35",
+      "agentId": "es_001",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Halima Benhaddou",
+      "amount": 240,
+      "commission": 4.8,
+      "date": "2026-04-13T09:30:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c36",
+      "agentId": "es_004",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Halima Benhaddou",
+      "amount": 50,
+      "commission": 1.25,
+      "date": "2026-04-22T12:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c37",
+      "agentId": "es_005",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Rachid Bensouda",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-04-16T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c38",
+      "agentId": "es_001",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Rachid Bensouda",
+      "amount": 370,
+      "commission": 7.4,
+      "date": "2026-04-29T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c39",
+      "agentId": "es_001",
+      "serviceId": "chaabi_pay",
+      "serviceName": "Ouverture Compte Chaabi Pay",
+      "client": "Khadija Naciri",
+      "amount": 300,
+      "commission": 9,
+      "date": "2026-04-12T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c40",
+      "agentId": "es_004",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Khadija Naciri",
+      "amount": 200,
+      "commission": 5,
+      "date": "2026-04-26T14:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c41",
+      "agentId": "es_004",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Tariq Ouali",
+      "amount": 500,
+      "commission": 10,
+      "date": "2026-04-20T08:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c42",
+      "agentId": "es_005",
+      "serviceId": "transfert",
+      "serviceName": "Transfert d'Argent",
+      "client": "Tariq Ouali",
+      "amount": 1000,
+      "commission": 15,
+      "date": "2026-05-01T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c43",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Hamid Bahri",
+      "amount": 50,
+      "commission": 1.25,
+      "date": "2026-04-08T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c44",
+      "agentId": "es_004",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Hamid Bahri",
+      "amount": 200,
+      "commission": 4,
+      "date": "2026-04-23T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c45",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Aicha Qasimi",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-04-12T14:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c46",
+      "agentId": "es_004",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Driss Moktari",
+      "amount": 280,
+      "commission": 5.6,
+      "date": "2026-04-18T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c47",
+      "agentId": "es_005",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Samira Fennich",
+      "amount": 160,
+      "commission": 3.2,
+      "date": "2026-04-21T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c48",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Khalid Bouazza",
+      "amount": 200,
+      "commission": 5,
+      "date": "2026-04-25T15:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c49",
+      "agentId": "es_001",
+      "serviceId": "transfert",
+      "serviceName": "Transfert d'Argent",
+      "client": "Latifa Guerraoui",
+      "amount": 800,
+      "commission": 12,
+      "date": "2026-04-16T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c50",
+      "agentId": "es_004",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Brahim Skalli",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-04-28T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c51",
+      "agentId": "es_001",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Nawal Bousfiha",
+      "amount": 420,
+      "commission": 8.4,
+      "date": "2026-05-02T08:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c52",
+      "agentId": "es_005",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Said Lamouri",
+      "amount": 150,
+      "commission": 3.75,
+      "date": "2026-04-30T14:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c53",
+      "agentId": "es_001",
+      "serviceId": "chaabi_pay",
+      "serviceName": "Ouverture Compte Chaabi Pay",
+      "client": "Houda Cherkaoui",
+      "amount": 200,
+      "commission": 6,
+      "date": "2026-04-19T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c54",
+      "agentId": "es_004",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Mustapha Benkirane",
+      "amount": 310,
+      "commission": 6.2,
+      "date": "2026-05-03T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c55",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Mohamed Alaoui",
+      "amount": 200,
+      "commission": 5,
+      "date": "2026-05-05T08:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c56",
+      "agentId": "es_004",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Fatima Benali",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-05-04T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c57",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Hassan Kettani",
+      "amount": 50,
+      "commission": 1.25,
+      "date": "2026-05-03T09:30:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c58",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Sara Tazi",
+      "amount": 150,
+      "commission": 3.75,
+      "date": "2026-05-05T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c59",
+      "agentId": "es_001",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Nadia Hajji",
+      "amount": 280,
+      "commission": 5.6,
+      "date": "2026-05-04T08:30:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c60",
+      "agentId": "es_004",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Nawal Bousfiha",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-05-03T14:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c61",
+      "agentId": "es_005",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Samira Fennich",
+      "amount": 320,
+      "commission": 6.4,
+      "date": "2026-05-02T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c62",
+      "agentId": "es_001",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Driss Moktari",
+      "amount": 180,
+      "commission": 3.6,
+      "date": "2026-05-01T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c63",
+      "agentId": "es_004",
+      "serviceId": "transfert",
+      "serviceName": "Transfert d'Argent",
+      "client": "Latifa Guerraoui",
+      "amount": 1200,
+      "commission": 18,
+      "date": "2026-05-05T15:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_c64",
+      "agentId": "es_005",
+      "serviceId": "chaabi_pay",
+      "serviceName": "Ouverture Compte Chaabi Pay",
+      "client": "Khalid Bouazza",
+      "amount": 400,
+      "commission": 12,
+      "date": "2026-05-04T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r01",
+      "agentId": "es_002",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Amina El Fassi",
+      "amount": 200,
+      "commission": 4,
+      "date": "2026-04-15T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r02",
+      "agentId": "es_006",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Amina El Fassi",
+      "amount": 150,
+      "commission": 3.75,
+      "date": "2026-04-22T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r03",
+      "agentId": "es_002",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Fouad Benali",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-04-17T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r04",
+      "agentId": "es_006",
+      "serviceId": "transfert",
+      "serviceName": "Transfert d'Argent",
+      "client": "Fouad Benali",
+      "amount": 1000,
+      "commission": 15,
+      "date": "2026-04-28T14:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r05",
+      "agentId": "es_002",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Laila Tazi",
+      "amount": 200,
+      "commission": 5,
+      "date": "2026-04-10T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r06",
+      "agentId": "es_006",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Laila Tazi",
+      "amount": 350,
+      "commission": 7,
+      "date": "2026-04-25T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r07",
+      "agentId": "es_002",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Mehdi Hajji",
+      "amount": 180,
+      "commission": 3.6,
+      "date": "2026-04-14T08:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r08",
+      "agentId": "es_006",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Mehdi Hajji",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-04-20T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r09",
+      "agentId": "es_002",
+      "serviceId": "transfert",
+      "serviceName": "Transfert d'Argent",
+      "client": "Sanaa Cherkaoui",
+      "amount": 2000,
+      "commission": 30,
+      "date": "2026-04-12T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r10",
+      "agentId": "es_006",
+      "serviceId": "chaabi_pay",
+      "serviceName": "Ouverture Compte Chaabi Pay",
+      "client": "Sanaa Cherkaoui",
+      "amount": 300,
+      "commission": 9,
+      "date": "2026-04-26T15:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r11",
+      "agentId": "es_006",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Younes Bennis",
+      "amount": 50,
+      "commission": 1.25,
+      "date": "2026-04-18T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r12",
+      "agentId": "es_002",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Younes Bennis",
+      "amount": 420,
+      "commission": 8.4,
+      "date": "2026-05-01T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r13",
+      "agentId": "es_006",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Hassan El Fassi",
+      "amount": 230,
+      "commission": 4.6,
+      "date": "2026-04-22T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r14",
+      "agentId": "es_002",
+      "serviceId": "chaabi_pay",
+      "serviceName": "Ouverture Compte Chaabi Pay",
+      "client": "Kenza Alaoui",
+      "amount": 500,
+      "commission": 15,
+      "date": "2026-04-19T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_r15",
+      "agentId": "es_006",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Kenza Alaoui",
+      "amount": 200,
+      "commission": 5,
+      "date": "2026-04-27T14:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_m01",
+      "agentId": "es_003",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Fatima Aarab",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-04-20T09:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_m02",
+      "agentId": "es_003",
+      "serviceId": "facture_eau",
+      "serviceName": "Facture Eau (ONEE)",
+      "client": "Fatima Aarab",
+      "amount": 220,
+      "commission": 4.4,
+      "date": "2026-04-28T10:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_m03",
+      "agentId": "es_003",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Abdellah Ouchen",
+      "amount": 200,
+      "commission": 5,
+      "date": "2026-04-24T11:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_m04",
+      "agentId": "es_003",
+      "serviceId": "facture_elec",
+      "serviceName": "Facture Électricité (ONEE)",
+      "client": "Rachida Belmoktar",
+      "amount": 380,
+      "commission": 7.6,
+      "date": "2026-05-01T08:00:00Z",
+      "status": "completed"
+    },
+    {
+      "id": "txn_m05",
+      "agentId": "es_003",
+      "serviceId": "recharge",
+      "serviceName": "Recharge Téléphonique",
+      "client": "Rachida Belmoktar",
+      "amount": 100,
+      "commission": 2.5,
+      "date": "2026-05-03T10:00:00Z",
+      "status": "completed"
+    }
+  ],
+  "services": [
+    {
+      "id": "recharge",
+      "name": "Recharge Téléphonique",
+      "category": "recharge",
+      "description": "Recharge mobile tous opérateurs (Maroc Telecom, Orange, Inwi)",
+      "commissionRate": 0.025,
+      "requiredModuleId": "module_001",
+      "icon": "phone",
+      "active": true,
+      "popular": false,
+      "badge": "Promo",
+      "opportunityNote": "Gagner 5 DHS",
+      "ctaLabel": "Utiliser"
+    },
+    {
+      "id": "facture_eau",
+      "name": "Facture Eau (ONEE)",
+      "category": "eau_electricite",
+      "description": "Paiement des factures eau ONEE",
+      "commissionRate": 0.02,
+      "requiredModuleId": "module_002",
+      "icon": "droplets",
+      "active": true,
+      "popular": false
+    },
+    {
+      "id": "facture_elec",
+      "name": "Facture Électricité (ONEE)",
+      "category": "eau_electricite",
+      "description": "Paiement des factures électricité ONEE",
+      "commissionRate": 0.02,
+      "requiredModuleId": "module_003",
+      "icon": "zap",
+      "active": true,
+      "popular": true,
+      "badge": "Populaire",
+      "opportunityNote": "Gagner + de 2 DHS",
+      "ctaLabel": "Utiliser"
+    },
+    {
+      "id": "transfert",
+      "name": "Transfert d'Argent",
+      "category": "transfert",
+      "description": "Transfert national et international",
+      "commissionRate": 0.015,
+      "requiredModuleId": "module_004",
+      "icon": "send",
+      "active": true,
+      "popular": false
+    },
+    {
+      "id": "chaabi_pay",
+      "name": "Ouverture Compte Chaabi Pay",
+      "category": "hbab_chaabi",
+      "description": "Ouverture de compte Chaabi Pay pour les clients",
+      "commissionRate": 0.03,
+      "requiredModuleId": "module_005",
+      "icon": "credit-card",
+      "active": true,
+      "popular": false
+    },
+    {
+      "id": "service_rcurrent",
+      "name": "Service Récurrent",
+      "category": "autres",
+      "description": "",
+      "commissionRate": 0.02,
+      "requiredModuleId": "module_95649638",
+      "icon": "star",
+      "active": true,
+      "popular": false,
+      "badge": "Courant",
+      "opportunityNote": "",
+      "ctaLabel": "Utiliser"
+    }
+  ],
+  "academy": [
+    {
+      "id": "module_001",
+      "title": "Maîtriser les Recharges Téléphoniques",
+      "serviceId": "recharge",
+      "description": "Apprenez à traiter rapidement les recharges mobile pour tous les opérateurs",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": 180,
+      "thumbnail": null,
+      "passingScore": 70,
+      "qcm": [
+        {
+          "id": "q1",
+          "question": "Quel est le délai de traitement d'une recharge téléphonique ?",
+          "options": [
+            "Immédiat (quelques secondes)",
+            "5 minutes",
+            "30 minutes",
+            "24 heures"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q2",
+          "question": "Que faire si le client ne reçoit pas sa recharge après 2 minutes ?",
+          "options": [
+            "Refaire la recharge immédiatement",
+            "Contacter le support et noter le numéro de transaction",
+            "Demander au client d'attendre 24h",
+            "Rembourser directement le client"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q3",
+          "question": "Quelle est votre commission sur une recharge de 200 MAD ?",
+          "options": [
+            "2 MAD",
+            "4 MAD",
+            "5 MAD",
+            "10 MAD"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "q4",
+          "question": "Quel opérateur ne figure PAS dans votre liste de recharge ?",
+          "options": [
+            "Maroc Telecom",
+            "Orange",
+            "Inwi",
+            "SFR"
+          ],
+          "correct": 3
+        },
+        {
+          "id": "q5",
+          "question": "Comment confirmer une recharge réussie au client ?",
+          "options": [
+            "Rien, la recharge est automatique",
+            "Afficher le reçu de transaction sur l'écran",
+            "Envoyer un SMS manuel",
+            "Appeler l'opérateur"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": "module_002",
+      "title": "Paiement Factures Eau ONEE",
+      "serviceId": "facture_eau",
+      "description": "Guidez vos clients dans le paiement de leurs factures eau ONEE",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": 240,
+      "thumbnail": null,
+      "passingScore": 70,
+      "qcm": [
+        {
+          "id": "q1",
+          "question": "Quelle information est indispensable pour payer une facture ONEE ?",
+          "options": [
+            "Le nom du client",
+            "Le numéro d'abonné ONEE",
+            "Le numéro de CIN",
+            "L'adresse email"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q2",
+          "question": "Quelle est votre commission sur une facture de 300 MAD ?",
+          "options": [
+            "3 MAD",
+            "6 MAD",
+            "9 MAD",
+            "12 MAD"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q3",
+          "question": "Peut-on payer une facture ONEE en plusieurs fois ?",
+          "options": [
+            "Oui, jusqu'à 3 fois",
+            "Non, paiement intégral uniquement",
+            "Oui, jusqu'à 6 fois",
+            "Seulement si > 500 MAD"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q4",
+          "question": "Que signifie le code erreur E-403 lors du paiement ?",
+          "options": [
+            "Facture déjà payée",
+            "Numéro d'abonné invalide",
+            "Montant insuffisant",
+            "Connexion interrompue"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q5",
+          "question": "Dans quel délai le paiement est-il enregistré chez ONEE ?",
+          "options": [
+            "Instantané",
+            "24 à 48 heures",
+            "3 à 5 jours",
+            "7 jours"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": "module_003",
+      "title": "Paiement Factures Électricité ONEE",
+      "serviceId": "facture_elec",
+      "description": "Traitez les paiements de factures électricité en toute sécurité",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": 210,
+      "thumbnail": null,
+      "passingScore": 70,
+      "qcm": [
+        {
+          "id": "q1",
+          "question": "Comment identifier le type de compteur d'un client ?",
+          "options": [
+            "Par la couleur du compteur",
+            "Par le préfixe du numéro d'abonné",
+            "Par l'adresse",
+            "Par le montant"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q2",
+          "question": "Quelle est la commission sur une facture de 500 MAD ?",
+          "options": [
+            "5 MAD",
+            "10 MAD",
+            "15 MAD",
+            "20 MAD"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q3",
+          "question": "Que faire si le client a une coupure malgré le paiement ?",
+          "options": [
+            "Refaire le paiement",
+            "Contacter ONEE avec le reçu de paiement",
+            "Attendre 48h",
+            "Ignorer"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q4",
+          "question": "Le paiement partiel d'une facture est-il possible ?",
+          "options": [
+            "Oui toujours",
+            "Non jamais",
+            "Oui si > 100 MAD du total",
+            "Seulement pour les grandes entreprises"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q5",
+          "question": "Quel document remettre au client après paiement ?",
+          "options": [
+            "Rien",
+            "Un reçu imprimé ou électronique",
+            "Une attestation ONEE",
+            "Un bordereau bancaire"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": "module_004",
+      "title": "Transfert d'Argent National et International",
+      "serviceId": "transfert",
+      "description": "Maîtrisez les transferts d'argent en toute conformité",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": 360,
+      "thumbnail": null,
+      "passingScore": 75,
+      "qcm": [
+        {
+          "id": "q1",
+          "question": "Quel document d'identité est obligatoire pour un transfert ?",
+          "options": [
+            "Permis de conduire",
+            "CIN ou Passeport valide",
+            "Carte d'étudiant",
+            "Facture de domicile"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q2",
+          "question": "Quel est le plafond journalier de transfert sans déclaration ?",
+          "options": [
+            "5 000 MAD",
+            "10 000 MAD",
+            "20 000 MAD",
+            "50 000 MAD"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q3",
+          "question": "Quelle est votre commission sur un transfert de 1 000 MAD ?",
+          "options": [
+            "10 MAD",
+            "15 MAD",
+            "20 MAD",
+            "25 MAD"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q4",
+          "question": "Combien de temps pour qu'un transfert national soit disponible ?",
+          "options": [
+            "Immédiat",
+            "1 heure",
+            "24 heures",
+            "3 jours"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q5",
+          "question": "En cas de soupçon de blanchiment, que devez-vous faire ?",
+          "options": [
+            "Traiter la transaction normalement",
+            "Refuser et signaler au responsable conformité",
+            "Demander plus de frais",
+            "Contacter la police"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": "module_005",
+      "title": "Ouverture de Compte Chaabi Pay",
+      "serviceId": "chaabi_pay",
+      "description": "Ouvrez des comptes Chaabi Pay et accompagnez vos clients",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "duration": 300,
+      "thumbnail": null,
+      "passingScore": 80,
+      "qcm": [
+        {
+          "id": "q1",
+          "question": "Quel est l'âge minimum pour ouvrir un compte Chaabi Pay ?",
+          "options": [
+            "16 ans",
+            "18 ans",
+            "21 ans",
+            "Pas de limite"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "q2",
+          "question": "Quels documents sont nécessaires pour l'ouverture du compte ?",
+          "options": [
+            "CIN uniquement",
+            "CIN + justificatif de revenu",
+            "CIN + photo + numéro de téléphone",
+            "Passeport uniquement"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "q3",
+          "question": "Quelle est votre commission pour chaque ouverture de compte ?",
+          "options": [
+            "15 MAD",
+            "20 MAD",
+            "25 MAD",
+            "30 MAD"
+          ],
+          "correct": 3
+        },
+        {
+          "id": "q4",
+          "question": "Dans quel délai le compte est-il activé après ouverture ?",
+          "options": [
+            "Immédiatement",
+            "24 heures",
+            "48 heures",
+            "7 jours"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "q5",
+          "question": "Quel est le plafond mensuel d'un compte Chaabi Pay basique ?",
+          "options": [
+            "5 000 MAD",
+            "10 000 MAD",
+            "20 000 MAD",
+            "50 000 MAD"
+          ],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "id": "module_95649638",
+      "title": "Formation : Service Récurrent",
+      "serviceId": "service_rcurrent",
+      "description": "Formation obligatoire pour activer le service \"Service Récurrent\".",
+      "videoUrl": "",
+      "duration": 0,
+      "thumbnail": null,
+      "passingScore": 70,
+      "qcm": [
+        {
+          "question": "Quel est l'avantage principal du service \"Service Récurrent\" ?",
+          "options": [
+            "Gagner des commissions",
+            "Fidéliser les clients",
+            "Les deux",
+            "Aucun"
+          ],
+          "correct": 2
+        }
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_001",
+      "agentId": "es_001",
+      "title": "Félicitations !",
+      "message": "Vous avez atteint 70% de votre objectif journalier. Continuez !",
+      "read": true,
+      "date": "2026-05-05T08:00:00Z",
+      "type": "success"
+    },
+    {
+      "id": "notif_002",
+      "agentId": "es_001",
+      "title": "Nouveau service disponible",
+      "message": "Le service Transfert d'Argent est disponible. Complétez la formation pour l'activer.",
+      "read": true,
+      "date": "2026-05-04T14:00:00Z",
+      "type": "info"
+    },
+    {
+      "id": "notif_003",
+      "agentId": "es_002",
+      "title": "Formation recommandée",
+      "message": "Complétez la formation Facture Eau pour augmenter vos revenus.",
+      "read": false,
+      "date": "2026-05-05T07:00:00Z",
+      "type": "info"
+    },
+    {
+      "id": "notif_a6a6f882",
+      "agentId": "es_001",
+      "title": "Service activé automatiquement !",
+      "message": "Félicitations ! Le service \"Facture Électricité (ONEE)\" est maintenant disponible.",
+      "read": true,
+      "date": "2026-05-05T11:13:11.907Z",
+      "type": "success"
+    },
+    {
+      "id": "notif_9edf9b4d",
+      "agentId": "es_001",
+      "title": "Service activé automatiquement !",
+      "message": "Félicitations ! Le service \"Transfert d'Argent\" est maintenant disponible.",
+      "read": true,
+      "date": "2026-05-05T11:44:14.061Z",
+      "type": "success"
+    },
+    {
+      "id": "notif_a0b9c3e0",
+      "agentId": "es_001",
+      "title": "Service activé automatiquement !",
+      "message": "Félicitations ! Le service \"Service Récurrent\" est maintenant disponible.",
+      "read": true,
+      "date": "2026-05-05T21:35:44.718Z",
+      "type": "success"
+    },
+    {
+      "id": "notif_aa6a99ac",
+      "agentId": "es_001",
+      "title": "Service activé automatiquement !",
+      "message": "Félicitations ! Le service \"Ouverture Compte Chaabi Pay\" est maintenant disponible.",
+      "read": true,
+      "date": "2026-05-06T09:23:30.296Z",
+      "type": "success"
+    }
+  ],
+  "config": {
+    "defaultDailyObjective": 10,
+    "supportPhone": "+212520000000",
+    "supportWhatsApp": "+212600000000",
+    "supportEmail": "support@m2t.ma",
+    "supportHours": "Lun–Sam · 8h–20h",
+    "appName": "M2T BackOffice"
+  },
+  "objectives": [
+    {
+      "id": "obj_b341dbdc",
+      "agentId": "es_001",
+      "serviceId": "recharge",
+      "category": null,
+      "label": "Test 2026",
+      "targetAmount": null,
+      "targetCount": 200,
+      "period": "daily",
+      "source": "bo",
+      "createdAt": "2026-05-06T09:17:14.113Z"
+    },
+    {
+      "id": "obj_26deaa22",
+      "agentId": "es_002",
+      "serviceId": "recharge",
+      "category": null,
+      "label": "Test 2026",
+      "targetAmount": null,
+      "targetCount": 200,
+      "period": "daily",
+      "source": "bo",
+      "createdAt": "2026-05-06T09:17:14.114Z"
+    },
+    {
+      "id": "obj_0c16adf4",
+      "agentId": "es_003",
+      "serviceId": "recharge",
+      "category": null,
+      "label": "Test 2026",
+      "targetAmount": null,
+      "targetCount": 200,
+      "period": "daily",
+      "source": "bo",
+      "createdAt": "2026-05-06T09:17:14.116Z"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "m2t-bo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "api": "cd api && npm run dev",
+    "front": "cd front-es && npm run dev -- --port 5173",
+    "back": "cd backoffice && npm run dev -- --port 5174",
+    "dev": "concurrently \"npm run api\" \"npm run front\" \"npm run back\"",
+    "install:all": "cd api && npm install && cd ../front-es && npm install && cd ../backoffice && npm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
