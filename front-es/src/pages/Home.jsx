@@ -89,9 +89,11 @@ export default function Home() {
   const txnGrowth = agent?.weeklyGrowth || 0
   const clientGrowth = agent?.clientGrowth || 0
 
-  const handlePaymentSuccess = (txn) => {
+  const handlePaymentSuccess = async (txn) => {
     setTransactions(prev => [txn, ...prev])
     setAgent(prev => prev ? { ...prev, balance: (prev.balance || 0) + txn.commission, totalTransactions: (prev.totalTransactions || 0) + 1 } : prev)
+    const cs = await api.analytics.crosssell().catch(() => null)
+    if (cs) setCrosssell(cs)
   }
 
   return (

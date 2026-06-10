@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom'
 import Layout from './components/Layout'
+import Login from './pages/Login'
 import Home from './pages/Home'
 import Services from './pages/Services'
 import Academy from './pages/Academy'
@@ -9,11 +10,17 @@ import Objectifs from './pages/Objectifs'
 import Favoris from './pages/Favoris'
 import Profile from './pages/Profile'
 
+function Guard({ children }) {
+  const logged = localStorage.getItem('m2t_agent_id')
+  return logged ? children : <Navigate to="/login" replace />
+}
+
 export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/login" element={<Login />} />
+        <Route path="/" element={<Guard><Layout /></Guard>}>
           <Route index element={<Home />} />
           <Route path="services" element={<Services />} />
           <Route path="academy" element={<Academy />} />

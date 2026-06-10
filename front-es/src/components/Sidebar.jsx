@@ -89,9 +89,18 @@ export default function Sidebar({ open, onClose }) {
         ))}
       </nav>
 
-      {/* Déconnexion */}
-      <div className="px-3 py-4 border-t border-white/10">
-        <button className="flex items-center gap-3 px-3 py-2.5 w-full rounded-lg text-sm text-blue-300 hover:bg-white/10 hover:text-white transition-colors">
+      {/* Agent + Déconnexion */}
+      <div className="px-3 py-4 border-t border-white/10 space-y-1">
+        <div className="px-3 py-2">
+          <p className="text-xs font-semibold text-white truncate">
+            {localStorage.getItem('m2t_agent_name') || 'Agent'}
+          </p>
+          <p className="text-[10px] text-blue-400">Espace Service</p>
+        </div>
+        <button
+          onClick={() => { localStorage.removeItem('m2t_agent_id'); localStorage.removeItem('m2t_agent_name'); window.location.replace('/login') }}
+          className="flex items-center gap-3 px-3 py-2.5 w-full rounded-lg text-sm text-blue-300 hover:bg-white/10 hover:text-white transition-colors"
+        >
           <LogOut size={17} />
           Déconnexion
         </button>

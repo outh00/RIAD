@@ -20,7 +20,7 @@ router.get('/:id', (req, res) => {
 
 // POST /services - créer un service (backoffice)
 router.post('/', (req, res) => {
-  const { name, category, description, commissionRate, icon, badge, opportunityNote, ctaLabel } = req.body
+  const { name, category, description, commissionRate, icon, badge, opportunityNote, ctaLabel, videoUrl } = req.body
   if (!name || !category || commissionRate === undefined) {
     return res.status(400).json({ error: 'name, category et commissionRate sont obligatoires' })
   }
@@ -37,7 +37,7 @@ router.post('/', (req, res) => {
     title: `Formation : ${name}`,
     serviceId,
     description: `Maîtrisez le service "${name}" pour le proposer à vos clients et augmenter vos commissions. Formation courte, validée par QCM.`,
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: videoUrl || 'https://www.youtube.com/embed/dQw4w9WgXcQ',
     duration: 480,
     thumbnail: null,
     passingScore: 70,

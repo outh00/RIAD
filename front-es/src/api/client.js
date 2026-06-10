@@ -10,8 +10,7 @@ async function request(path, options = {}) {
   return data
 }
 
-// Agent ID actif (à remplacer par un contexte/store si multi-agent)
-export const AGENT_ID = 'es_001'
+export const AGENT_ID = localStorage.getItem('m2t_agent_id') || 'es_001'
 
 export const api = {
   agent: {

@@ -14,7 +14,7 @@ const BADGE_ICON = {
   Courant:   <Minus size={11} className="inline mr-0.5" />,
 }
 
-const emptyCreate = { name: '', category: 'eau_electricite', commissionRate: 0.02, description: '', badge: 'Courant', opportunityNote: '', ctaLabel: 'Utiliser' }
+const emptyCreate = { name: '', category: 'eau_electricite', commissionRate: 0.02, description: '', badge: 'Courant', opportunityNote: '', ctaLabel: 'Utiliser', videoUrl: '' }
 
 const CAT_LABELS = {
   eau_electricite: 'Eau & Élec', telephonie_internet: 'Téléphonie', transport: 'Transport',
@@ -163,10 +163,16 @@ export default function ServicesPage() {
               onChange={e => setCreateForm(f => ({ ...f, ctaLabel: e.target.value }))}
               className="border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-blue-400"
             />
+            <input
+              placeholder="URL vidéo RIAD Academy (YouTube embed, ex: https://www.youtube.com/embed/...)"
+              value={createForm.videoUrl}
+              onChange={e => setCreateForm(f => ({ ...f, videoUrl: e.target.value }))}
+              className="border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-blue-400 sm:col-span-2"
+            />
           </div>
 
           <p className="text-xs text-blue-600 mt-3 bg-blue-50 rounded-lg px-3 py-2">
-            ✅ Un module RIAD Academy sera automatiquement créé et lié à ce service.
+            ✅ Un module RIAD Academy sera automatiquement créé avec cette vidéo et lié à ce service.
           </p>
 
           <div className="flex gap-3 mt-4">
