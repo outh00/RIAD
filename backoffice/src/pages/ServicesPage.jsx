@@ -164,7 +164,7 @@ export default function ServicesPage() {
               className="border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-blue-400"
             />
             <input
-              placeholder="URL vidéo RIAD Academy (YouTube embed, ex: https://www.youtube.com/embed/...)"
+              placeholder="URL vidéo RIAD Academy (lien YouTube, ex: https://www.youtube.com/watch?v=...)"
               value={createForm.videoUrl}
               onChange={e => setCreateForm(f => ({ ...f, videoUrl: e.target.value }))}
               className="border border-gray-200 rounded-xl px-3 py-2 text-sm focus:outline-none focus:border-blue-400 sm:col-span-2"

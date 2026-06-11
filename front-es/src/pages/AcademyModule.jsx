@@ -3,6 +3,29 @@ import { useParams, useNavigate } from 'react-router-dom'
 import { ArrowLeft, CheckCircle, XCircle, PlayCircle } from 'lucide-react'
 import { api } from '../api/client'
 
+function toEmbedUrl(url) {
+  if (!url) return ''
+  try {
+    const u = new URL(url)
+    if (u.hostname.includes('youtu.be')) {
+      const id = u.pathname.slice(1)
+      return `https://www.youtube.com/embed/${id}`
+    }
+    if (u.hostname.includes('youtube.com')) {
+      if (u.pathname.startsWith('/embed/')) return url
+      if (u.pathname.startsWith('/shorts/')) {
+        const id = u.pathname.split('/')[2]
+        return `https://www.youtube.com/embed/${id}`
+      }
+      const id = u.searchParams.get('v')
+      if (id) return `https://www.youtube.com/embed/${id}`
+    }
+    return url
+  } catch {
+    return url
+  }
+}
+
 export default function AcademyModule() {
   const { moduleId } = useParams()
   const navigate = useNavigate()
@@ -95,7 +118,7 @@ export default function AcademyModule() {
           <div className="aspect-video bg-gray-900 flex items-center justify-center">
             {module.videoUrl ? (
               <iframe
-                src={module.videoUrl}
+                src={toEmbedUrl(module.videoUrl)}
                 className="w-full h-full"
                 allow="autoplay; fullscreen"
                 onEnded={handleVideoEnd}
